@@ -17,7 +17,7 @@ And as administrator Sanity is used where the executed changes are seen instantl
 
 Insert gif or link to demo
 
-https://ecommerce-sanity-stripe.vercel.app/
+js-ecommerce.vercel.app
 ## Screenshots 
 Home
 
